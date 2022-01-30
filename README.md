@@ -1,4 +1,4 @@
-#CTQW
+#
 Quantum random walks quantum analogues of classical random walks. Unlike
 the continuous time quantum walk, the discrete time quantum walk algorithm
 requires the use of one or more coin qubits representing the number of move-
